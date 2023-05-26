@@ -21,3 +21,6 @@ Automatically moving qBittorrent torrents to Transmission
   ```
   
   It runs on 05:00am every day. You might need to change the python directory depending on your distro and you might need to set your qbit.py script as executable (chmod +x qbit.py).
+
+
+My ultimate vision was to have separate download folders for each client ant copy or move the files depending on whether the torrents are public or private. If you have a way of doing this please message me, comment or fork this repo. It proved to be too much for me and my very limited python skills.
